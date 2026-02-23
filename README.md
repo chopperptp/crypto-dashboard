@@ -3,7 +3,7 @@
 **จัดทำโดย:** [นายปฏิภาณ แก้ววิเศษ]
 **ลิงก์สำหรับเข้าใช้งาน Dashboard:** [**https://crypto-dashboard-jwnjtvdcavw9xjzjtcvrtx.streamlit.app/**]
 **ชุดข้อมูลที่ใช้ (Dataset):** Crypto Data จาก Kaggle (ไฟล์ .CSV)
-**link https://www.kaggle.com/datasets/bishop36/crypto-data**
+**link https://www.kaggle.com/datasets/bishop36/crypto-data กดเข้าไปดาวน์โหลดไฟล์csv**
 
 ---
 
